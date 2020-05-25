@@ -942,6 +942,7 @@
 		text-align: center;
 		text-decoration: none;
 		white-space: nowrap;
+		position: flex;
 	}
 
 		input[type="submit"]:hover,
